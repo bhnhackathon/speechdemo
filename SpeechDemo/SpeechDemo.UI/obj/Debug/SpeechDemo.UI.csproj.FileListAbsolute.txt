@@ -1,11 +1,11 @@
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\SpeechDemo.UI.exe.config
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\SpeechDemo.UI.exe
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\SpeechDemo.UI.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\Balance.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\Balance.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.csprojResolveAssemblyReference.cache
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.Form1.resources
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.Properties.Resources.resources
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.csproj.GenerateResource.Cache
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.exe
 C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.pdb
-C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\obj\Debug\SpeechDemo.UI.csprojResolveAssemblyReference.cache
-C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\Balance.dll
-C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\SpeechDemo.UI\bin\Debug\Balance.pdb

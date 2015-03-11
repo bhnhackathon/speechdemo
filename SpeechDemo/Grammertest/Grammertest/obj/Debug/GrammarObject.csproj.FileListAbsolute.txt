@@ -1,0 +1,7 @@
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\bin\Debug\Grammertest.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\bin\Debug\Grammertest.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\bin\Debug\ProductServices.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\bin\Debug\ProductServices.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\obj\Debug\GrammarObject.csprojResolveAssemblyReference.cache
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\obj\Debug\Grammertest.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\Grammertest\Grammertest\obj\Debug\Grammertest.pdb

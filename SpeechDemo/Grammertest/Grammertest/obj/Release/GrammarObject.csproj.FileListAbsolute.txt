@@ -1,0 +1,7 @@
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\obj\Release\GrammarObject.csprojResolveAssemblyReference.cache
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\bin\Release\Grammertest.dll
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\bin\Release\Grammertest.pdb
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\bin\Release\ProductServices.dll
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\bin\Release\ProductServices.pdb
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\obj\Release\Grammertest.dll
+c:\users\pkart01\documents\visual studio 2012\Projects\Grammertest\Grammertest\obj\Release\Grammertest.pdb

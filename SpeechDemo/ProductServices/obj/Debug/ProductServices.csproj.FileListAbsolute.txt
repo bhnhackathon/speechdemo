@@ -1,0 +1,8 @@
+C:\PROJECTS\Hackathon\ProductServices\bin\Debug\ProductServices.dll
+C:\PROJECTS\Hackathon\ProductServices\bin\Debug\ProductServices.pdb
+C:\PROJECTS\Hackathon\ProductServices\obj\Debug\ProductServices.dll
+C:\PROJECTS\Hackathon\ProductServices\obj\Debug\ProductServices.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\ProductServices\bin\Debug\ProductServices.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\ProductServices\bin\Debug\ProductServices.pdb
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\ProductServices\obj\Debug\ProductServices.dll
+C:\Users\Duk Lee\Projects\speechdemo\SpeechDemo\ProductServices\obj\Debug\ProductServices.pdb
