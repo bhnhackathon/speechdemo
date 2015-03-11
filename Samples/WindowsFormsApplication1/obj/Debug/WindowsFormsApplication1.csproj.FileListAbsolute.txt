@@ -24,7 +24,6 @@ C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\bin\Debug\
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\bin\Debug\Microsoft.Speech.dll
-C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

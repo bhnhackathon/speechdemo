@@ -1,0 +1,4 @@
+C:\OnlineProjects\Hackathon2015\TestBalanceService\Balance\bin\Debug\Balance.dll
+C:\OnlineProjects\Hackathon2015\TestBalanceService\Balance\bin\Debug\Balance.pdb
+C:\OnlineProjects\Hackathon2015\TestBalanceService\Balance\obj\Debug\Balance.dll
+C:\OnlineProjects\Hackathon2015\TestBalanceService\Balance\obj\Debug\Balance.pdb

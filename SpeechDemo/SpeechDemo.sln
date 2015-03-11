@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "..\Samples\WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{37D5F302-F2AB-4CFE-811A-3BA932CFA4E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechDemo.UI", "SpeechDemo.UI\SpeechDemo.UI.csproj", "{317FB32F-9AF8-405D-A87F-EED2913C5E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance", "Balance\Balance.csproj", "{10EFA597-2070-4EF1-9C2F-66459E2B5AE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{37D5F302-F2AB-4CFE-811A-3BA932CFA4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D5F302-F2AB-4CFE-811A-3BA932CFA4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D5F302-F2AB-4CFE-811A-3BA932CFA4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317FB32F-9AF8-405D-A87F-EED2913C5E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317FB32F-9AF8-405D-A87F-EED2913C5E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317FB32F-9AF8-405D-A87F-EED2913C5E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317FB32F-9AF8-405D-A87F-EED2913C5E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EFA597-2070-4EF1-9C2F-66459E2B5AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EFA597-2070-4EF1-9C2F-66459E2B5AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EFA597-2070-4EF1-9C2F-66459E2B5AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EFA597-2070-4EF1-9C2F-66459E2B5AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
