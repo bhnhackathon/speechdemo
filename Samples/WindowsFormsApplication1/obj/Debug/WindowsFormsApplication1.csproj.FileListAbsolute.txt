@@ -20,3 +20,6 @@ C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\ob
 C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Duk Lee\Projects\speechdemo\Samples\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
